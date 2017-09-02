@@ -14,7 +14,7 @@ public class Main{
     public static void hello (int num, String choise){
         welcomeAnswer ();
         if (num>18 && choise.equals ("yes")) {
-            System.out.println ("Hello Boy. Welcome to adult world.");
+            System.out.println ("Hello. Welcome to adult world.");
         }
     }
 
